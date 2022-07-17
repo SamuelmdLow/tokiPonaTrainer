@@ -81,7 +81,15 @@ class Terms
         }
 
         this.list.sort(function(a, b){return a.rankingValue - b.rankingValue});
-        return this.list[0];
+
+        let i = 0;
+        //console.log(this.list[i].rankingValue);
+        while (this.list[i].rankingValue == this.list[0].rankingValue && i < this.list.length-1)
+        {
+            i = i + 1;
+        }
+
+        return this.list[Math.floor(Math.random() * i)];
     }
 
 }
@@ -171,8 +179,8 @@ function submit()
         document.getElementById("wordBox").borderColor = "#ba7070";
 
     }
-
-    document.getElementById("past word").innerHTML = currentWord.word + ": " + currentWord.translate;
+    //document.getElementById("leftBox").src = currentWord.symbol;
+    document.getElementById("past word").innerHTML = "<span><img class='icon' src='"+ currentWord.symbol + "'></span>"+ currentWord.word + ": " + currentWord.translate;
     document.getElementById("expanded").innerHTML = currentWord.expanded;
 
     currentWord.timesAnswered = currentWord.timesAnswered + 1;

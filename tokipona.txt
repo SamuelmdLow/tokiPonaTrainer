@@ -1,5 +1,5 @@
 a,interjection: ah ha uh oh ooh aw well (emotion word),ah,https://upload.wikimedia.org/wikipedia/commons/7/76/A_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
-akesi,noun: non-cute animal reptile amphibian,creature,https://upload.wikimedia.org/wikipedia/commons/a/ab/Akesi_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+akesi,noun: non-cute animal reptile amphibian,reptile,https://upload.wikimedia.org/wikipedia/commons/a/ab/Akesi_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
 ala,modifier: no not none un- | noun: nothing negation zero | interjection: no!,nothing,https://upload.wikimedia.org/wikipedia/commons/6/69/Ala_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
 alasa,verb: gather hunt forage,hunt,https://upload.wikimedia.org/wikipedia/commons/f/fa/Alasa_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
 ale,noun: everything anything life universe | modifier: all every complete whole,all,https://upload.wikimedia.org/wikipedia/commons/6/68/Ale_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg

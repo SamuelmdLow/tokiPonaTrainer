@@ -1,137 +1,137 @@
-a,interjection: ah ha uh oh ooh aw well (emotion word),ah
-akesi,noun: non-cute animal reptile amphibian,reptile
-ala,modifier: no not none un- | noun: nothing negation zero | interjection: no!,nothing
-alasa,verb: gather hunt forage,hunt
-ale,noun: everything anything life universe | modifier: all every complete whole,all
-anpa,noun: bottom lower part under below floor beneath | modifier: low lower bottom down lowly humble dependant,bottom
-ante,noun: difference | modifier: different | conjunction: otherwise or else | verb: change alter modify,change
-anu,conjunction: or,or
-awen,verb: stay wait remain keep | modifier: remaining stationary permanent sedentary,conserve
-e,introduces a direct object,introduces a direct object
-en,and,and
-epiku,epic,epic
-esun,noun: market shop business trading selling buying,trading
-ijo,noun: thing something stuff anything object | modifier: of something | verb: objectify,thing
-ike,modifier: bad negative wrong evil overly complex (figuratively) unhealthy | interjection: oh dear! woe! alas! | noun: negativity badness evil | verb: to make bad to worsen to have a negative effect upon to be bad to suck | [sounds like icky],bad
-ilo,noun: tool device machine thing used for a specific purpose,machine
-insa,noun: inside inner world centre stomach | modifier: inner internal | [inside],inside
-jaki,modifier: dirty gross filthy | noun: dirt pollution garbage filth | verb: pollute dirty | interjection: ew! yuck! | [yucky],dirty
-jan,noun: person people human being somebody anybody | modifier: human somebody's personal of people | verb: personify humanize personalize,person
-jasima,reflection; echo; mirror | opposite; reverse,reflect
-jelo,modifier: yellow light green | [yellow],yellow
-jo,verb: have contain | noun: having | kama receive get take obtain,have
-kala,noun: fish sea creature,fish
-kalama,noun: sound noise voice | verb: make noise sound ring play (an instrument),sound
-kama,verb: come become arrive happen pursue actions to arrive to (a certain state) manage to start to bring about summon | noun: event happening chance arrival beginning | modifier: coming future | [come up],come
-kasi,noun: plant leaf herb tree wood,plant
-ken,verb: can is able to is allowed to may is possible make possible enable allow permit | noun: possibility ability power to do things permission | cont it is possible that,possible
-kepeken,verb: use | preposition: with,use
-kijetesantakalu,(sometimes humorous) A procyonid such as a raccoon coati kinkajou olingo ringtail or cacomistle. | A musteloid such as a ferret weasel otter or red panda.,racoon
-kili,noun: fruit vegetable mushroom,vegetable
-kin,modifier: also too even indeed (emphasizes the word(s) before it),too
-kipisi,noun: part partition | verb: split cut divide,part
-kiwen,modifier: hard solid stone-like made of stone or metal | noun: hard thing rock stone metal mineral clay,hard
-ko,noun: semi-solid or squishy substance e.g. paste powder gum,squishy thing
-kokosila,to speak a language other than Toki Pona in where speaking in Toki Pona would be more appropriate,Not using Toki Pona
-kon,noun: air wind smell soul | mod air-like ethereal gaseous,air
-ku,the Toki Pona Dictionary compiled by Sonja Lang,Toki Pona Dictionary
-kule,noun: colour paint | modifier: colourful | verb: colour paint,colour
-kulupu,noun: group community society company people | modifier: communal shared public of the society,group
-kute,verb: listen hear | modifier: auditory hearing,hear
-la,separator: (between adverb or phrase of context and sentence),
-lanpan,take seize catch receive get,recieve
-lape,sleep,sleep
-laso,mod blue blue-green,blue
-lawa,noun: head mind | modifier: main leading in charge | verb: lead control rule steer,control
-leko,block brick cube stair,block
-len,clothing cloth fabric,fabric
-lete,noun: cold | modifier: cold uncooked | verb: cool down chill,cold
-li,separator: (between any subject except mi and sina and its verb; also used to introduce a new verb for the same subject),
-lili,modifier: small little young a bit short few less | verb: reduce shorten shrink lessen,small
-linja,noun: long very thin floppy thing e.g. string rope hair thread cord chain,string like thing
-lipu,noun: flat and bendable thing e.g. paper card ticket,paper like thing
-loje,red,red
-lon,preposition: be (located) in/at/on | verb: be there be present be real/true exist be awake,exists
-luka,hand arm,arm
-lukin,verb: see look at watch read look watch out pay attention | modifier: visual(ly) | [looking],look
-lupa,noun hole orifice window door | [sounds like loop],hole
-ma,noun: land earth country (outdoor) area,land
-mama,noun: parent mother father | modifier: of the parent parental maternal fatherly | [sounds like momma],parent
-mani,noun: money material wealth currency dollar capital | [money],money
-meli,noun: woman female girl wife girlfriend | modifier: female feminine womanly | [Mary],woman
-meso,middle midpoint,middle
-mi,noun: I we | modifier: my our | [me],me
-mije,noun: man male boy husband boyfriend | mod male masculine manly,man
-misikeke,medication medicine pill vaccine,medicine
-moku,noun: food meal | verb: eat drink swallow ingest consume,food
-moli,noun: death | verb: die be dead kill | modifier: dead deadly fatal,death
-monsi,noun: back rear end butt behind | modifier: back rear,behind
-monsuta,a scary creature or entity; monster predator | something scary a source of fear; danger threat,monster
-mu,interjection: woof! meow! moo! etc. (animal noise) | [moo],animal sound
-mun,noun: moon | modifier: lunar | [moon],moon
-musi,noun: fun playing game recreation art entertainment | modifier: artful fun recreational | verb: play have fun amuse entertain,fun
-mute,modifier: many very much several a lot abundant numerous more | noun: amount quantity | verb: make many or much | [multi],numerous
-n,Used for thinking or humming.,thinking
-namako,noun: food additive accessory something extra | verb: season embellish stimulate,accessory
-nanpa,noun: number | -th (ordinal numbers) | [number],number
-nasa,modifier: silly crazy foolish drunk strange stupid weird | verb: drive crazy make weird,stupid
-nasin,way manner custom road path doctrine system method,method
-nena,bump nose hill mountain button,protrusion
-ni,this that,this
-nimi,word name,name
-noka,leg foot,leg
-o,separator: O (vocative or imperative) | interjection: hey! (calling somebody's attention),hey!
-oko,eye | [similar to oculist],eye
-olin,noun: love | modifier: love | verb: to love (a person),love
-ona,noun: she he it they | modifier: her his its their,they
-open,verb: open turn on,open
-pakala,noun: blunder accident mistake destruction damage breaking | verb: screw up fuck up botch ruin break hurt injure damage spoil ruin. screw up fall apart break | interjection: damn! fuck!,damage
-pali,noun: activity work deed project | modifier: active work-related operating working | verb: do make build create act work function,work
-palisa,long mostly hard object e.g. rod stick branch,stick like thing
-pan,grain cereal,grain
-pana,verb: give put send place release emit cause | noun: giving transfer exchange,release
-pi,separator: of belonging to,of
-pilin,noun: feelings emotion heart | verb: feel feel think sense touch | [feeling],emotion
-pimeja,modifier: black dark | noun: darkness shadows | verb: darken,black
-pini,noun: end tip | modifier: completed finished past done ago | verb: finish close end turn off,end
-pipi,bug insect spider,bug
-poka,noun: side hip next to | preposition: in the accompaniment of with | modifier: neighbouring,beside
-poki,container box bowl cup glass | [box],container
-pona,noun: good simplicity positivity | modifier: good simple positive nice correct right | interjection: great! good! thanks! OK! cool! yay! | verb: improve fix repair make good | [bonam],good
-pu,interaction with Toki Pona: The Language of Good,check dictionary
-sama,modifier: same similar equal of equal status or position | preposition: like as seem,equal
-seli,noun: fire warmth heat | modifier: hot warm cooked | verb: heat warm up cook,heat
-selo,noun: outside surface skin shell bark shape peel,surface
-seme,what which wh- (question word),what
-sewi,noun: high up above top over on | modifier: superior elevated religious formal,above
-sijelo,body physical state,body
-sike,noun: circle wheel sphere ball cycle | modifier: round cyclical,circle
-sin,modifier: new fresh another more | verb;: renew renovate freshen,new
-sina,noun: you | modifier: your,you
-sinpin,front chest torso face wall,front
-sitelen,noun: picture image | verb: draw write,picture
-soko,,
-sona,noun: knowledge wisdom intelligence understanding | verb: know understand know how to know understand | kama learn study,knowledge
-soweli,animal especially land mammal lovable animal,animal
-suli,modifier: big tall long adult important | verb: enlarge lengthen | noun: size,big
-suno,sun light,light
-supa,horizontal surface e.g furniture table chair pillow floor,furniture
-suwi,noun: candy sweet food | modifier: sweet cute | verb: sweeten | [sweet],sweet
-tan,preposition: from by because of since | noun: origin cause,origin
-taso,modifier: only sole | conjunction: but | [that's all],only
-tawa,preposition: to in order to towards for until | verb: go to walk travel move leave move displace | noun: movement transportation | modifier: moving mobile | [towards],move
-telo,noun: water liquid juice sauce | verb: water wash with water,liquid
-tenpo,noun: time period of time moment duration situation,time
-toki,noun: language talking speech communication | modifier: talking verbal | verb: say talk chat communicate | interj hello! hi!,communication
-tomo,noun: indoor constructed space e.g. house home room building | modifier: urban domestic household,indoor
-tonsi,non-binary gender-nonconforming,gender-nonconforming
-tu,modifier: two | noun: duo pair | verb: double separate/cut/divide in two | [two],two
-unpa,noun: sex sexuality | modifier: erotic sexual | verb: have sex with sleep with fuck have sex,sex
-uta,noun: mouth | modifier: oral,mouth
-utala,noun: conflict disharmony competition fight war battle attack blow argument physical or verbal violence | verb: hit strike attack compete against,conflict
-walo,modifier: white light (colour) | noun: white thing or part whiteness lightness | [sounds like wall which is often white],white
-wan,modifier: one a | noun: unit element particle part piece | verb: unite make one | [one],unit
-waso,bird winged animal,bird
-wawa,noun: energy strength power | modifier: energetic strong fierce intense sure confident | verb: strengthen energize empower,power
-weka,modifier: away absent missing | noun: absence | verb: throw away remove get rid of,absence
-wile,verb: to want need wish have to must will should | noun: desire need will | modifier: necessary,desire
+a,interjection: ah ha uh oh ooh aw well (emotion word),ah,https://upload.wikimedia.org/wikipedia/commons/7/76/A_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+akesi,noun: non-cute animal reptile amphibian,creature,https://upload.wikimedia.org/wikipedia/commons/a/ab/Akesi_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+ala,modifier: no not none un- | noun: nothing negation zero | interjection: no!,nothing,https://upload.wikimedia.org/wikipedia/commons/6/69/Ala_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+alasa,verb: gather hunt forage,hunt,https://upload.wikimedia.org/wikipedia/commons/f/fa/Alasa_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+ale,noun: everything anything life universe | modifier: all every complete whole,all,https://upload.wikimedia.org/wikipedia/commons/6/68/Ale_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+anpa,noun: bottom lower part under below floor beneath | modifier: low lower bottom down lowly humble dependant,bottom,https://upload.wikimedia.org/wikipedia/commons/e/e6/Anpa_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+ante,noun: difference | modifier: different | conjunction: otherwise or else | verb: change alter modify,change,https://upload.wikimedia.org/wikipedia/commons/a/a2/Ante_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+anu,conjunction: or,or,https://upload.wikimedia.org/wikipedia/commons/1/1a/Anu_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+awen,verb: stay wait remain keep | modifier: remaining stationary permanent sedentary,conserve,https://upload.wikimedia.org/wikipedia/commons/5/5c/Awen_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+e,introduces a direct object,introduces a direct object,https://upload.wikimedia.org/wikipedia/commons/7/7d/E_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+en,and,and,https://upload.wikimedia.org/wikipedia/commons/f/f7/En_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+epiku,epic,epic,https://imgs.search.brave.com/JenG-DuE3A_TKsqz763eX2qcIe-XZ6JqfGNGeJLxUJE/rs:fit:925:924:1/g:ce/aHR0cDovL2NsaXBh/cnQtbGlicmFyeS5j/b20vbmV3X2dhbGxl/cnkvMjQ1LTI0NTk5/MjRfYXdlc29tZS1m/YWNlLXBvc2UtNS0y/MDE3LXN0YXktY2Fs/bS1hbmQucG5n
+esun,noun: market shop business trading selling buying,trading,https://upload.wikimedia.org/wikipedia/commons/d/d8/Esun_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+ijo,noun: thing something stuff anything object | modifier: of something | verb: objectify,thing,https://upload.wikimedia.org/wikipedia/commons/c/c1/Ijo_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+ike,modifier: bad negative wrong evil overly complex (figuratively) unhealthy | interjection: oh dear! woe! alas! | noun: negativity badness evil | verb: to make bad to worsen to have a negative effect upon to be bad to suck | [sounds like icky],bad,https://upload.wikimedia.org/wikipedia/commons/3/32/Ike_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+ilo,noun: tool device machine thing used for a specific purpose,machine,https://upload.wikimedia.org/wikipedia/commons/a/ad/Ilo_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+insa,noun: inside inner world centre stomach | modifier: inner internal | [inside],inside,https://upload.wikimedia.org/wikipedia/commons/e/e1/Insa_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+jaki,modifier: dirty gross filthy | noun: dirt pollution garbage filth | verb: pollute dirty | interjection: ew! yuck! | [yucky],dirty,https://upload.wikimedia.org/wikipedia/commons/4/4a/Jaki_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+jan,noun: person people human being somebody anybody | modifier: human somebody's personal of people | verb: personify humanize personalize,person,https://upload.wikimedia.org/wikipedia/commons/6/69/Jan_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+jasima,reflection; echo; mirror | opposite; reverse,reflect,https://imgs.search.brave.com/4_61_52rn0Ztu0cPcW4pWVoZ8DH1akqGnTMonE2Quwo/rs:fit:566:980:1/g:ce/aHR0cDovL2Nkbi5v/bmxpbmV3ZWJmb250/cy5jb20vc3ZnL2lt/Z180Nzc1MDcucG5n
+jelo,modifier: yellow light green | [yellow],yellow,https://upload.wikimedia.org/wikipedia/commons/f/f6/Jelo_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+jo,verb: have contain | noun: having | kama receive get take obtain,have,https://upload.wikimedia.org/wikipedia/commons/6/65/Jo_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+kala,noun: fish sea creature,fish,https://upload.wikimedia.org/wikipedia/commons/d/d2/Kala_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+kalama,noun: sound noise voice | verb: make noise sound ring play (an instrument),sound,https://upload.wikimedia.org/wikipedia/commons/e/e9/Kalama_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+kama,verb: come become arrive happen pursue actions to arrive to (a certain state) manage to start to bring about summon | noun: event happening chance arrival beginning | modifier: coming future | [come up],come,https://upload.wikimedia.org/wikipedia/commons/a/ac/Kama_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+kasi,noun: plant leaf herb tree wood,plant,https://upload.wikimedia.org/wikipedia/commons/3/3d/Kasi_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+ken,verb: can is able to is allowed to may is possible make possible enable allow permit | noun: possibility ability power to do things permission | cont it is possible that,possible,https://upload.wikimedia.org/wikipedia/commons/a/a0/Ken_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+kepeken,verb: use | preposition: with,use,https://upload.wikimedia.org/wikipedia/commons/2/24/Kepeken_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+kijetesantakalu,(sometimes humorous) A procyonid such as a raccoon coati kinkajou olingo ringtail or cacomistle. | A musteloid such as a ferret weasel otter or red panda.,racoon,https://upload.wikimedia.org/wikipedia/commons/c/c4/Kijetesantakalu_%28linja_pona%29.svg
+kili,noun: fruit vegetable mushroom,vegetable,https://upload.wikimedia.org/wikipedia/commons/9/92/Kili_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+kin,modifier: also too even indeed (emphasizes the word(s) before it),too,https://imgs.search.brave.com/buiin-u2uLP7cHL2Q9Yr7u6vXhKlGjdtzDLr0YQChb0/rs:fit:1200:1200:1/g:ce/aHR0cDovL3d3dy5w/bmdhbGwuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy80L0stTGV0/dGVyLVBORy1JbWFn/ZXMucG5n
+kipisi,noun: part partition | verb: split cut divide,part,https://imgs.search.brave.com/vVG-KAPyZOYl1MixrGhEQTqvya0H0egvEQTMInEPsvE/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMudmV4ZWxzLmNv/bS9tZWRpYS91c2Vy/cy8zLzE1NzIzMC9p/c29sYXRlZC9wcmV2/aWV3LzMyZjhlNzE3/MjE2ZGFkZjZjNzY4/ZTE1NTQzNzhiZTg5/LWVpbmZhY2hlLXBp/enphLXNsaWNlLXN5/bWJvbC1ieS12ZXhl/bHMucG5n
+kiwen,modifier: hard solid stone-like made of stone or metal | noun: hard thing rock stone metal mineral clay,hard,https://upload.wikimedia.org/wikipedia/commons/b/b9/Kiwen_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+ko,noun: semi-solid or squishy substance e.g. paste powder gum,squishy thing,https://upload.wikimedia.org/wikipedia/commons/0/0e/Ko_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+kokosila,to speak a language other than Toki Pona in where speaking in Toki Pona would be more appropriate,Not using Toki Pona,https://imgs.search.brave.com/m_XKMn73OCHOno6b86Z7v_cQFgNb7oDyA0CsMCOHkIk/rs:fit:1200:1200:1/g:ce/aHR0cDovL2hvdHNp/Z25zLm5ldC9hc3Nl/dHMvaW1hZ2VzL2Vt/b2dlZSUyMDEzMi5w/bmc
+kon,noun: air wind smell soul | mod air-like ethereal gaseous,air,https://upload.wikimedia.org/wikipedia/commons/6/60/Kon_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+ku,the Toki Pona Dictionary compiled by Sonja Lang,Toki Pona Dictionary,https://imgs.search.brave.com/S14msXGY5wpR-yAAGpbRS9m3sRd0rrq2P5SiiLK1We0/rs:fit:266:400:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzAxLzY0/LzUzLzAxNjQ1MzM3/M2NjNmE3NzZlMjVh/ZjRjZDQ3ZjA5ZjFi/LmpwZw
+kule,noun: colour paint | modifier: colourful | verb: colour paint,colour,https://upload.wikimedia.org/wikipedia/commons/0/09/Kule_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+kulupu,noun: group community society company people | modifier: communal shared public of the society,group,https://upload.wikimedia.org/wikipedia/commons/0/08/Kulupu_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+kute,verb: listen hear | modifier: auditory hearing,hear,https://upload.wikimedia.org/wikipedia/commons/a/ae/Kute_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+la,separator: (between adverb or phrase of context and sentence),separate phrases,https://upload.wikimedia.org/wikipedia/commons/4/40/La_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+lanpan,take seize catch receive get,recieve,https://imgs.search.brave.com/y1ccUH1kM9SN6-mUd2ImHEv6gG6LnFva9ORxbCIL_Mc/rs:fit:840:1040:1/g:ce/aHR0cHM6Ly93d3cu/cG5nZmluZC5jb20v/cG5ncy9tLzEwLTEw/NDE2OF90aGllZi1y/b2JiZXItcG5nLXRy/YW5zcGFyZW50LXBu/Zy5wbmc
+lape,sleep,sleep,https://upload.wikimedia.org/wikipedia/commons/e/e0/Lape_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+laso,mod blue blue-green,blue,https://upload.wikimedia.org/wikipedia/commons/b/b5/Laso_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+lawa,noun: head mind | modifier: main leading in charge | verb: lead control rule steer,control,https://upload.wikimedia.org/wikipedia/commons/d/d5/Lawa_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+leko,block brick cube stair,block,https://imgs.search.brave.com/R2GOKeqAzvcDb3nrMtlQlQKwoEsucfsWUd8bYvUOaCg/rs:fit:700:700:1/g:ce/aHR0cHM6Ly9pbWcu/YnJpY2tvd2wuY29t/L2ZpbGVzL2ltYWdl/X2NhY2hlL2xhcmdl/ci9sZWdvLWJyb3du/LWJyaWNrLTIteC00/LTMwMDEtMi03NzEz/NDQtNDYuanBn
+len,clothing cloth fabric,fabric,https://upload.wikimedia.org/wikipedia/commons/c/c2/Len_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+lete,noun: cold | modifier: cold uncooked | verb: cool down chill,cold,https://upload.wikimedia.org/wikipedia/commons/e/e3/Lete_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+li,separator: (between any subject except mi and sina and its verb; also used to introduce a new verb for the same subject),sparate subject and verb,https://upload.wikimedia.org/wikipedia/commons/2/24/Li_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+lili,modifier: small little young a bit short few less | verb: reduce shorten shrink lessen,small,https://upload.wikimedia.org/wikipedia/commons/c/c2/Lili_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+linja,noun: long very thin floppy thing e.g. string rope hair thread cord chain,string like thing,https://upload.wikimedia.org/wikipedia/commons/e/ea/Linja_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+lipu,noun: flat and bendable thing e.g. paper card ticket,paper like thing,https://upload.wikimedia.org/wikipedia/commons/0/02/Lipu_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+loje,red,red,https://upload.wikimedia.org/wikipedia/commons/b/b1/Loje_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+lon,preposition: be (located) in/at/on | verb: be there be present be real/true exist be awake,exists,https://upload.wikimedia.org/wikipedia/commons/9/98/Lon_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+luka,hand arm,arm,https://upload.wikimedia.org/wikipedia/commons/a/af/Luka_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+lukin,verb: see look at watch read look watch out pay attention | modifier: visual(ly) | [looking],look,https://upload.wikimedia.org/wikipedia/commons/e/eb/Lukin_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+lupa,noun hole orifice window door | [sounds like loop],hole,https://upload.wikimedia.org/wikipedia/commons/d/dd/Lupa_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+ma,noun: land earth country (outdoor) area,land,https://upload.wikimedia.org/wikipedia/commons/1/17/Ma_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+mama,noun: parent mother father | modifier: of the parent parental maternal fatherly | [sounds like momma],parent,https://upload.wikimedia.org/wikipedia/commons/2/29/Mama_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+mani,noun: money material wealth currency dollar capital | [money],money,https://upload.wikimedia.org/wikipedia/commons/2/27/Mani_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+meli,noun: woman female girl wife girlfriend | modifier: female feminine womanly | [Mary],woman,https://upload.wikimedia.org/wikipedia/commons/2/2f/Meli_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+meso,middle midpoint,middle,https://imgs.search.brave.com/92NA9vPqGFMnL2g4WrzFwMRrgBoDAg4HizwXTjTqUww/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxNy8w/Mi8xNi8xMC8yMC90/YXJnZXQtMjA3MDk3/Ml8xMjgwLnBuZw
+mi,noun: I we | modifier: my our | [me],me,https://upload.wikimedia.org/wikipedia/commons/d/df/Mi_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+mije,noun: man male boy husband boyfriend | mod male masculine manly,man,https://upload.wikimedia.org/wikipedia/commons/b/bb/Mije_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+misikeke,medication medicine pill vaccine,medicine,https://imgs.search.brave.com/IdpFzmz_W8GE3RpAHLPHvgRrS12USx7CwpLoW4Oa9V0/rs:fit:1000:630:1/g:ce/aHR0cHM6Ly9saDYu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tL3By/b3h5L1IwbXFjNUxQ/RFNFRXhwUVRxUndQ/RUtKWEczZnVTb2R5/QXRvOGdyU2wtSjBm/RkVWd0h4cm9lMGlQ/cGJiUXVoOWU0TVlS/YS1MaHpCTjNSb2E4/aWxRLVVUYVJnNlps/SHAtRGNXUWkyRW5D/eDNnU3hsbElNMFQt/TGl1MXBSZlVKNlp6/Y2hnY0cyVG9sUlRf/NG50S3pUSWtDUFBs/MmJyeXdoeko2czl1/ZVltUFZFcExqQWl1/RXk4OUVqbmhDNWNB/ODM0LXZSYWxCckVI/UUVBZE8zUkVGOTI4/MHpHUUw4aWpJVGZL/M3VMaFdQY3h0R3ll/RU1rM3gxdktlNXRz/U1ZBanBZdmJUdkZm/LWc9dzEyMDAtaDYz/MC1wLWstbm8tbnU
+moku,noun: food meal | verb: eat drink swallow ingest consume,food,https://upload.wikimedia.org/wikipedia/commons/4/48/Moku_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+moli,noun: death | verb: die be dead kill | modifier: dead deadly fatal,death,https://upload.wikimedia.org/wikipedia/commons/7/76/Moli_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+monsi,noun: back rear end butt behind | modifier: back rear,behind,https://upload.wikimedia.org/wikipedia/commons/0/0b/Monsi_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+monsuta,a scary creature or entity; monster predator | something scary a source of fear; danger threat,monster,https://imgs.search.brave.com/TgNKUJKLesUn2127o680hy3bDmQR_q2jKBvaaywPb1A/rs:fit:900:900:1/g:ce/aHR0cHM6Ly95dDMu/Z2dwaHQuY29tL2Ev/QUFUWEFKeko2QVhQ/aGh5Y3hmSFlLV0U2/UkNrZ2RBUV8yVTJ2/VlVHa0tnPXM5MDAt/Yy1rLWMweGZmZmZm/ZmZmLW5vLXJqLW1v
+mu,interjection: woof! meow! moo! etc. (animal noise) | [moo],animal sound,https://upload.wikimedia.org/wikipedia/commons/c/cc/Mu_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+mun,noun: moon | modifier: lunar | [moon],moon,https://upload.wikimedia.org/wikipedia/commons/f/fd/Mun_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+musi,noun: fun playing game recreation art entertainment | modifier: artful fun recreational | verb: play have fun amuse entertain,fun,https://upload.wikimedia.org/wikipedia/commons/b/b8/Musi_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+mute,modifier: many very much several a lot abundant numerous more | noun: amount quantity | verb: make many or much | [multi],numerous,https://upload.wikimedia.org/wikipedia/commons/f/f8/Mute_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+n,Used for thinking or humming.,thinking,https://imgs.search.brave.com/4trepoLq0v7tICDqdxTL1cVeq2De2fhGjAeeE6M7Iq4/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9zMy5h/bWF6b25hd3MuY29t/L2ltYWdlcy5lY3dp/ZC5jb20vaW1hZ2Vz/LzI4NjU5MDAzLzE0/MTIxOTMwNzYuanBn
+namako,noun: food additive accessory something extra | verb: season embellish stimulate,something extra,https://imgs.search.brave.com/btyCHqtiLk35Hn3YQ-00HEYDE0syqxdxFChUQWcYpgs/rs:fit:900:900:1/g:ce/aHR0cHM6Ly93d3cu/Y2xpcGFydGtleS5j/b20vbXBuZ3MvbS8y/OTgtMjk4NzAzNF9z/YWx0LWNsaXBhcnQt/aWNvbi1zYWx0LWJh/ZS1pY29uLnBuZw
+nanpa,noun: number | -th (ordinal numbers) | [number],number,https://upload.wikimedia.org/wikipedia/commons/6/68/Nanpa_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+nasa,modifier: silly crazy foolish drunk strange stupid weird | verb: drive crazy make weird,stupid,https://upload.wikimedia.org/wikipedia/commons/5/5e/Nasa_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+nasin,way manner custom road path doctrine system method,method,https://upload.wikimedia.org/wikipedia/commons/3/3f/Nasin_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+nena,bump nose hill mountain button,protrusion,https://upload.wikimedia.org/wikipedia/commons/6/61/Nena_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+ni,this that,this,https://upload.wikimedia.org/wikipedia/commons/3/38/Ni_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+nimi,word name,name,https://upload.wikimedia.org/wikipedia/commons/7/78/Nimi_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+noka,leg foot,leg,https://upload.wikimedia.org/wikipedia/commons/4/4e/Noka_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+o,separator: O (vocative or imperative) | interjection: hey! (calling somebody's attention),hey!,https://upload.wikimedia.org/wikipedia/commons/c/ca/O_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+oko,eye | [similar to oculist],eye,https://imgs.search.brave.com/E23rjRiDHvHkTbjBAaXVA79sNxnhAxxImKJAB7FhbU8/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/dmVyeXdlbGxoZWFs/dGguY29tL3RobWIv/c01LcDJLX09xRWUt/S1RTa1FoUHVCNWU0/cjJRPS8zODkxeDIx/OTAvZmlsdGVyczpm/aWxsKDg3RTNFRiwx/KS9HZXR0eUltYWdl/cy0xMTc2MTI4OTk3/LTUwMTUxYTM0N2Y2/NjQ1ZTk4ZTk0NGE3/YjU1ZmJhNTk1Lmpw/Zw
+olin,noun: love | modifier: love | verb: to love (a person),love,https://upload.wikimedia.org/wikipedia/commons/9/96/Olin_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+ona,noun: she he it they | modifier: her his its their,they,https://upload.wikimedia.org/wikipedia/commons/d/d8/Ona_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+open,verb: open turn on,open,https://upload.wikimedia.org/wikipedia/commons/f/fb/Open_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+pakala,noun: blunder accident mistake destruction damage breaking | verb: screw up fuck up botch ruin break hurt injure damage spoil ruin. screw up fall apart break | interjection: damn! fuck!,damage,https://upload.wikimedia.org/wikipedia/commons/d/d5/Pakala_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+pali,noun: activity work deed project | modifier: active work-related operating working | verb: do make build create act work function,work,https://upload.wikimedia.org/wikipedia/commons/d/db/Pali_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+palisa,long mostly hard object e.g. rod stick branch,stick like thing,https://upload.wikimedia.org/wikipedia/commons/0/01/Palisa_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+pan,grain cereal,grain,https://upload.wikimedia.org/wikipedia/commons/4/4b/Pan_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+pana,verb: give put send place release emit cause | noun: giving transfer exchange,release,https://upload.wikimedia.org/wikipedia/commons/7/75/Pana_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+pi,separator: of belonging to,of,https://upload.wikimedia.org/wikipedia/commons/2/21/Pi_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+pilin,noun: feelings emotion heart | verb: feel feel think sense touch | [feeling],emotion,https://upload.wikimedia.org/wikipedia/commons/4/46/Pilin_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+pimeja,modifier: black dark | noun: darkness shadows | verb: darken,black,https://upload.wikimedia.org/wikipedia/commons/5/57/Pimeja_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+pini,noun: end tip | modifier: completed finished past done ago | verb: finish close end turn off,end,https://upload.wikimedia.org/wikipedia/commons/a/ae/Pini_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+pipi,bug insect spider,bug,https://upload.wikimedia.org/wikipedia/commons/8/8c/Pipi_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+poka,noun: side hip next to | preposition: in the accompaniment of with | modifier: neighbouring,beside,https://upload.wikimedia.org/wikipedia/commons/2/2b/Poka_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+poki,container box bowl cup glass | [box],container,https://upload.wikimedia.org/wikipedia/commons/7/7a/Poki_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+pona,noun: good simplicity positivity | modifier: good simple positive nice correct right | interjection: great! good! thanks! OK! cool! yay! | verb: improve fix repair make good | [bonam],good,https://upload.wikimedia.org/wikipedia/commons/2/20/Pona_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+pu,interaction with Toki Pona: The Language of Good,check dictionary,https://upload.wikimedia.org/wikipedia/commons/8/82/Pu_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+sama,modifier: same similar equal of equal status or position | preposition: like as seem,equal,https://upload.wikimedia.org/wikipedia/commons/7/7d/Sama_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+seli,noun: fire warmth heat | modifier: hot warm cooked | verb: heat warm up cook,heat,https://upload.wikimedia.org/wikipedia/commons/4/42/Seli_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+selo,noun: outside surface skin shell bark shape peel,surface,https://upload.wikimedia.org/wikipedia/commons/f/fc/Selo_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+seme,what which wh- (question word),what,https://upload.wikimedia.org/wikipedia/commons/2/25/Seme_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+sewi,noun: high up above top over on | modifier: superior elevated religious formal,above,https://upload.wikimedia.org/wikipedia/commons/9/9a/Sewi_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+sijelo,body physical state,body,https://upload.wikimedia.org/wikipedia/commons/d/d5/Sijelo_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+sike,noun: circle wheel sphere ball cycle | modifier: round cyclical,circle,https://upload.wikimedia.org/wikipedia/commons/a/ac/Sike_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+sin,modifier: new fresh another more | verb;: renew renovate freshen,new,https://upload.wikimedia.org/wikipedia/commons/7/7a/Sin_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+sina,noun: you | modifier: your,you,https://upload.wikimedia.org/wikipedia/commons/9/91/Sina_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+sinpin,front chest torso face wall,front,https://upload.wikimedia.org/wikipedia/commons/3/32/Sinpin_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+sitelen,noun: picture image | verb: draw write,picture,https://upload.wikimedia.org/wikipedia/commons/c/cb/Sitelen_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+soko,"mushroom, fungus, fungi",mushroom,https://imgs.search.brave.com/5qZWOEBAa8vq-4ofRSdNTyRZy5GuCrCBZOpbrmPVB-c/rs:fit:600:600:1/g:ce/aHR0cHM6Ly9zdDIu/ZGVwb3NpdHBob3Rv/cy5jb20vMzY4MjIy/NS83NTI2L3YvNDUw/L2RlcG9zaXRwaG90/b3NfNzUyNjYzMTUt/c3RvY2staWxsdXN0/cmF0aW9uLW11c2hy/b29tLXNpZ24taWNv/bi1ib2xldHVzLW11/c2hyb29tLmpwZw
+sona,noun: knowledge wisdom intelligence understanding | verb: know understand know how to know understand | kama learn study,knowledge,https://upload.wikimedia.org/wikipedia/commons/f/f6/Sona_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+soweli,animal especially land mammal lovable animal,animal,https://upload.wikimedia.org/wikipedia/commons/4/4d/Soweli_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+suli,modifier: big tall long adult important | verb: enlarge lengthen | noun: size,big,https://upload.wikimedia.org/wikipedia/commons/c/c5/Suli_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+suno,sun light,light,https://upload.wikimedia.org/wikipedia/commons/a/a8/Suno_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+supa,horizontal surface e.g furniture table chair pillow floor,furniture,https://upload.wikimedia.org/wikipedia/commons/f/f6/Supa_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+suwi,noun: candy sweet food | modifier: sweet cute | verb: sweeten | [sweet],sweet,https://upload.wikimedia.org/wikipedia/commons/2/22/Suwi_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+tan,preposition: from by because of since | noun: origin cause,origin,https://upload.wikimedia.org/wikipedia/commons/0/0d/Tan_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+taso,modifier: only sole | conjunction: but | [that's all],only,https://upload.wikimedia.org/wikipedia/commons/2/2d/Taso_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+tawa,preposition: to in order to towards for until | verb: go to walk travel move leave move displace | noun: movement transportation | modifier: moving mobile | [towards],move,https://upload.wikimedia.org/wikipedia/commons/9/9f/Tawa_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+telo,noun: water liquid juice sauce | verb: water wash with water,liquid,https://upload.wikimedia.org/wikipedia/commons/9/9c/Telo_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+tenpo,noun: time period of time moment duration situation,time,https://upload.wikimedia.org/wikipedia/commons/4/4d/Tenpo_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+toki,noun: language talking speech communication | modifier: talking verbal | verb: say talk chat communicate | interj hello! hi!,communication,https://upload.wikimedia.org/wikipedia/commons/3/3d/Toki_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+tomo,noun: indoor constructed space e.g. house home room building | modifier: urban domestic household,indoor,https://upload.wikimedia.org/wikipedia/commons/3/3b/Tomo_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+tonsi,non-binary gender-nonconforming,gender-nonconforming,https://imgs.search.brave.com/0SdAcg85twiGbMUwFX9K0gKoFvggxMKciYeNkocnLPU/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvcHJl/dmlld3MvMDAwLzUz/My8xMjkvb3JpZ2lu/YWwvcmFpbmJvdy1m/bGFnLWxnYnQtc3lt/Ym9sLXZlY3Rvci1l/cHMxMC5qcGc
+tu,modifier: two | noun: duo pair | verb: double separate/cut/divide in two | [two],two,https://upload.wikimedia.org/wikipedia/commons/7/7c/Tu_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+unpa,noun: sex sexuality | modifier: erotic sexual | verb: have sex with sleep with fuck have sex,sex,https://upload.wikimedia.org/wikipedia/commons/a/a0/Unpa_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+uta,noun: mouth | modifier: oral,mouth,https://upload.wikimedia.org/wikipedia/commons/c/cb/Uta_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+utala,noun: conflict disharmony competition fight war battle attack blow argument physical or verbal violence | verb: hit strike attack compete against,conflict,https://upload.wikimedia.org/wikipedia/commons/3/30/Utala_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+walo,modifier: white light (colour) | noun: white thing or part whiteness lightness | [sounds like wall which is often white],white,https://upload.wikimedia.org/wikipedia/commons/6/6f/Walo_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+wan,modifier: one a | noun: unit element particle part piece | verb: unite make one | [one],one,https://upload.wikimedia.org/wikipedia/commons/a/a9/Wan_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+waso,bird winged animal,bird,https://upload.wikimedia.org/wikipedia/commons/1/1d/Waso_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+wawa,noun: energy strength power | modifier: energetic strong fierce intense sure confident | verb: strengthen energize empower,power,https://upload.wikimedia.org/wikipedia/commons/2/22/Wawa_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+weka,modifier: away absent missing | noun: absence | verb: throw away remove get rid of,absence,https://upload.wikimedia.org/wikipedia/commons/c/cc/Weka_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg
+wile,verb: to want need wish have to must will should | noun: desire need will | modifier: necessary,desire,https://upload.wikimedia.org/wikipedia/commons/e/eb/Wile_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg

@@ -6,16 +6,36 @@
     <script src="script.js"></script>
     <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body onload="setType(0);">
     <div id="sidebar">
         <h1 class="nav" onclick="window.location.href = 'tkp.html';">TKP</h1>
         <h1 class="nav" onclick="window.location.href = 'eng.html';">ENG</h1>
         <img class="nav" onclick="window.location.href = 'sym.html';"src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Toki_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg/440px-Toki_-_sitelen_pona_in_Sonja_Lang%27s_handwriting.svg.png">
     </div>
     <div id="trainerBox">
-        <h1>Toki Pona Trainer</h1>
-        <p>Use this website to memorize the Toki Pona dictionary!</p>
+        <h1>Toki Pona Trainer <span class="status" id="ave">0.00</span> <span class="status" id="progress">/</span></h1>
+
+        <h3 id="word">Word</h3>
+
+        <input id="input" type="text">
+        <input id="submit" type="button" onclick="submit(1)" value="submit">
+
+        <div id="wordBox">
+            <h3 id="past word"></h3>
+            <p id="expanded"></p>
+        </div>
     </div>
+
+<script>
+document.getElementById("input").addEventListener("keypress", function(event)
+{
+    if (event.key === "Enter")
+    {
+    event.preventDefault();
+    document.getElementById("submit").click();
+    }
+});
+</script>
 
 </body>
 </html>

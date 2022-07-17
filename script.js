@@ -1,10 +1,11 @@
 class Term
 {
-    constructor(word, translate, expanded)
+    constructor(word, translate, expanded, symbol)
     {
         this.word = word;
         this.translate = translate;
         this.expanded = expanded;
+        this.symbol = symbol;
 
         this.lastUsed = -100;
         this.timesAnswered = 0;
@@ -37,13 +38,30 @@ class Terms
         var weakest = this.list[0].accuracy;
         for(let i = 0; i < this.list.length; i++)
         {
-            if (weakest > list[i].accuracy)
+            if (weakest > this.list[i].accuracy)
             {
-                weakest = list[i].accuracy;
+                weakest = this.list[i].accuracy;
             }
         }
-
+        console.log(weakest);
+        weakest = (weakest-0.5)/0.5;
+        weakest = weakest.toFixed(2);
+        console.log(weakest);
         return weakest;
+    }
+
+    average()
+    {
+        var sum = 0;
+        for(let i = 0; i < this.list.length; i++)
+        {
+            if (this.list[i].accuracy != 0.5)
+            {
+                sum = sum + this.list[i].accuracy;
+            }
+        }
+        var ave = sum/this.list.length;
+        return ave.toFixed(1);
     }
 
     nextWord(round)
@@ -71,6 +89,14 @@ class Terms
 var round = 0;
 var terms = new Terms();
 var currentWord;
+var words;
+var correct = 0;
+var type;
+
+function setType(num)
+{
+    type = num;
+}
 
 function loadDoc(){
     var xhttp = new XMLHttpRequest();
@@ -94,22 +120,50 @@ function onload()
     {
         term = words[i].substr(0,words[i].length -1);
         term = term.split(",");
-        terms.addWord(new Term(term[0], term[2], term[1]));
+        terms.addWord(new Term(term[0], term[2], term[1], term[3]));
     }
 
     currentWord = terms.nextWord(round);
     //alert(currentWord.word);
-    document.getElementById("word").innerHTML = currentWord.word;
+    if (type == 0)
+    {
+        document.getElementById("word").innerHTML = currentWord.word;
+    }
+    else if (type == 1)
+    {
+        document.getElementById("word").innerHTML = currentWord.translate;
+    }
+    else if (type == 2)
+    {
+        document.getElementById("symbol").src = currentWord.symbol;
+    }
 }
 
 function submit()
 {
     //alert(document.getElementById("input").value);
-    if (currentWord.translate == document.getElementById("input").value)
+    var answer;
+    if (type == 0)
+    {
+        answer = currentWord.translate;
+    }
+    else
+    {
+        answer = currentWord.word;
+    }
+
+    if (answer == document.getElementById("input").value)
     {
         currentWord.timesCorrect = currentWord.timesCorrect + 1;
         document.getElementById("wordBox").style.backgroundColor = "#a3f593";
         document.getElementById("wordBox").borderColor = "#7cba70";
+
+        if (currentWord.timesCorrect == 1)
+        {
+            correct = correct + 1;
+            document.getElementById("progress").innerHTML = correct + "/" + terms.list.length
+        }
+
     }
     else
     {
@@ -129,9 +183,37 @@ function submit()
     //terms.list[0] = currentWord;
     document.getElementById("input").value = "";
     document.getElementById("input").select();
+
     currentWord = terms.nextWord(round);
-    document.getElementById("word").innerHTML = currentWord.word;
+
+    if (type == 0)
+    {
+        document.getElementById("word").innerHTML = currentWord.word;
+    }
+    else if (type == 1)
+    {
+        document.getElementById("word").innerHTML = currentWord.translate;
+    }
+    else if (type == 2)
+    {
+        document.getElementById("symbol").src = currentWord.symbol;
+    }
+
+    document.getElementById("ave").innerHTML = terms.average();
+    if (terms.average() < 0.3)
+    {
+        document.getElementById("ave").style.backgroundColor = "#db6565";
+    }
+    else if (terms.average() < 0.8)
+    {
+        document.getElementById("ave").style.backgroundColor = "#dbc165";
+    }
+    else
+    {
+        document.getElementById("ave").style.backgroundColor = "#7ddb65";
+    }
+
 }
 
 loadDoc();
-window.setTimeout(onload, 10);
+window.setTimeout(onload, 500);

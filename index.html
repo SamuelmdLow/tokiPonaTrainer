@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="trainerBox">
+        <h1>Toki Pona Trainer</h1>
+        <h3 id="word">Word</h3>
+
+        <input id="input" type="text">
+        <input id="submit" type="button" onclick="submit()" value="submit">
+
+        <div id="wordBox">
+            <h3 id="past word"></h3>
+            <p id="expanded"></p>
+        </div>
+    </div>
+
+<script>
+document.getElementById("input").addEventListener("keypress", function(event)
+{
+    if (event.key === "Enter")
+    {
+    event.preventDefault();
+    document.getElementById("submit").click();
+    }
+});
+</script>
+
+</body>
+</html>

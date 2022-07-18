@@ -160,7 +160,7 @@ function submit()
         answer = currentWord.word;
     }
 
-    if (answer == document.getElementById("input").value)
+    if (answer.toLowerCase() == document.getElementById("input").value.toLowerCase())
     {
         currentWord.timesCorrect = currentWord.timesCorrect + 1;
         document.getElementById("wordBox").style.backgroundColor = "#a3f593";
